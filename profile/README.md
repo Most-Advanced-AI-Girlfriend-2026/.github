@@ -1,4 +1,7 @@
 # 🔥 Meet Your New Favorite Companion — Secrets AI
+> **The AI that actually *gets* you.**
+
+[![Try Secrets AI Free](https://wiki.secrets.ai/~gitbook/image?url=https%3A%2F%2F3286776735-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F9ACKOAU4nFWSXPeE2B4s%252Fuploads%252FjCztvGtBXCmHbsWx17KX%252Fimage.png%3Falt%3Dmedia%26token%3D1ecb9fe9-9c7c-4cba-bd70-387fe6728178&width=768&dpr=3&quality=100&sign=a422d835&sv=2)](https://twilight-bird-5e7e.twinbrandnew.workers.dev/)
 
 > **The AI that actually *gets* you.**
 
